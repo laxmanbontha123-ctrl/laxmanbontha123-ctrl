@@ -17,16 +17,19 @@
   <img src="https://komarev.com/ghpvc/?username=laxmanbontha123-ctrl&style=for-the-badge&color=4F46E5&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-## About me
+About me
 
 I am a Computer Science Engineering student from Hyderabad, India, building practical products with AI and web technologies. I enjoy turning real problems into clear, useful software and improving one project at a time.
 
-- 🌾 Building **Kisan-Mithra**, an AI-powered assistant for farmers.
-- 🎓 Building **Career Intelligence AI**, a platform for student career growth.
-- 🧠 Learning Generative AI, RAG systems, AI agents, and full-stack development.
-- 🤝 Open to learning, collaboration, and meaningful student projects.
+🌾 Building Kisan-Mithra, an AI-powered assistant for farmers.
 
-## Featured projects
+🎓 Building Career Intelligence AI, a platform for student career growth.
+
+🧠 Learning Generative AI, RAG systems, AI agents, and full-stack development.
+
+🤝 Open to learning, collaboration, and meaningful student projects.
+
+Featured projects
 
 <table>
   <tr>
@@ -43,7 +46,7 @@ I am a Computer Science Engineering student from Hyderabad, India, building prac
   </tr>
 </table>
 
-## Technologies I use
+Technologies I use
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-0B1120?style=for-the-badge&logo=typescript&logoColor=00D9FF" alt="TypeScript" />
@@ -56,22 +59,23 @@ I am a Computer Science Engineering student from Hyderabad, India, building prac
   <img src="https://img.shields.io/badge/Git-0B1120?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
 </p>
 
-## GitHub activity
+GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=laxmanbontha123-ctrl&show_icons=true&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=8A2BE2&text_color=C9D1D9&rank_icon=github" alt="Laxman's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanbontha123-ctrl&layout=compact&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=C9D1D9" alt="Top languages" />
+  <img src="https://img.shields.io/github/commit-activity/y/laxmanbontha123-ctrl/kisan-mithra?style=for-the-badge&label=KISAN-MITHRA%20COMMITS&color=00D9FF&labelColor=0B1120" alt="Kisan Mithra yearly commits" />
+  <img src="https://img.shields.io/github/commit-activity/y/laxmanbontha123-ctrl/career-intelligence-ai?style=for-the-badge&label=CAREER-AI%20COMMITS&color=8A2BE2&labelColor=0B1120" alt="Career Intelligence yearly commits" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/laxmanbontha123-ctrl/laxmanbontha123-ctrl?style=for-the-badge&label=PROFILE%20UPDATED&color=4F46E5&labelColor=0B1120" alt="Profile repository last update" />
+  <img src="https://img.shields.io/github/repo-size/laxmanbontha123-ctrl/laxmanbontha123-ctrl?style=for-the-badge&label=PROFILE%20REPO%20SIZE&color=00D9FF&labelColor=0B1120" alt="Profile repository size" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=laxmanbontha123-ctrl&theme=transparent&hide_border=true&ring=00D9FF&fire=8A2BE2&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanbontha123-ctrl&bg_color=00000000&color=00D9FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" width="96%" />
-</p>
-
-## Contribution snake
+Contribution snake
 
 <p align="center">
   <picture>
@@ -81,7 +85,7 @@ I am a Computer Science Engineering student from Hyderabad, India, building prac
   </picture>
 </p>
 
-## Connect with me
+Connect with me
 
 <p>
   <a href="https://github.com/laxmanbontha123-ctrl"><img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
